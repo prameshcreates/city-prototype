@@ -1,0 +1,14 @@
+node_modules/
+verify-out/
+run*/
+*.png
+results.json
+.env
+.env*
+*.pem
+*.key
+*.p12
+*.pfx
+*token*
+*secret*
+credentials*
